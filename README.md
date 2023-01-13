@@ -4,6 +4,9 @@
 
 https://ayushmangarg2003.github.io/DoctorInterface/
 
+## Screenshot of Website
+![UserInterface](https://user-images.githubusercontent.com/105537793/212305964-ff2b7372-4ad3-4b0e-9de6-5753c7449c63.png)
+
 ## About the Project
 
 - This site allows Doctors to sign up on the application and log in to their Dashboard.
