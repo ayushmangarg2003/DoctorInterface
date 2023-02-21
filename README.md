@@ -14,11 +14,7 @@ https://ayushmangarg2003.github.io/DoctorInterface/
 - The Doctors can then set their Time Table and for Paitients to do appointments.
 - The Doctors will get notified through e-mail and Dasboard Notification when an appointment is made.
 
-## Languages and Tools
-
-- Site uses HTML, CSS and Javascript for frontend.
-- Site uses NodeJS and MongoDB for Backend and Databases.
-- We have also used Firebase for interim Database and its server.
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&lineCount=1&theme=merko&line1=html5,html,E34F26;css3,css,1572B6;javascript,javascript,F7DF1E;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&lineCount=1&theme=merko&line1=html5,html,E34F26;css3,css,1572B6;javascript,javascript,F7DF1E;)
 
 
 
